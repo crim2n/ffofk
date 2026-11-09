@@ -1,5 +1,6 @@
 {
-  "koRevision": 1,
+  "koRevision": 4,
+  "apkRevision": 1,
   "enRange": {
     "minVersionCode": 9065,
     "maxVersionCode": 9065
