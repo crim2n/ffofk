@@ -1,6 +1,6 @@
 {
-  "koRevision": 12,
-  "apkRevision": 6,
+  "koRevision": 13,
+  "apkRevision": 7,
   "enRange": {
     "minVersionCode": 9065,
     "maxVersionCode": 9070
@@ -10,9 +10,9 @@
     "v0.1.25"
   ],
   "patcher": {
-    "versionCode": 13,
-    "versionName": "1.4.6",
-    "url": "https://github.com/crim2n/ffofk/releases/download/patcher-13/p-13.apk",
-    "sha256": "ee28495eff6489e2255f7212f2ad7d59a0ebe3ade1836eb4ef2c157e2b6b4970"
+    "versionCode": 16,
+    "versionName": "1.4.9",
+    "url": "https://github.com/crim2n/ffofk/releases/download/patcher-16/p-16.apk",
+    "sha256": "97eba5059f6973bd14bd93507a9a087760ce98c74a3c53d6af8061dbbd5ecb39"
   }
 }
