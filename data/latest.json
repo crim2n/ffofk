@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "revision": 90007,
+  "revision": 90008,
   "version": "2026.11.04.9",
   "minAppVersionCode": 9015,
-  "downloadBytes": 16094520269,
-  "installedBytes": 16599944756,
+  "downloadBytes": 16094544242,
+  "installedBytes": 16599944764,
   "files": 13685,
   "packs": [
     {
@@ -142,17 +142,24 @@
     },
     {
       "id": "ko-ui-1",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-7/p7-1.zip",
-      "size": 1438773549,
-      "unpackedSize": 1541011417,
-      "sha256": "5a61948993c2c5caa7fade6966778564f716bdaa5d9d72990b60cb57d8ac6291"
+      "url": "https://github.com/crim2n/ffofk/releases/download/ko-8/p8-1.zip",
+      "size": 1413367763,
+      "unpackedSize": 1515582315,
+      "sha256": "1a332badd7e4753d16aa0e2527163c5e8c802101bc0986d3e553b88823ff247f"
+    },
+    {
+      "id": "ko-hud",
+      "url": "https://github.com/crim2n/ffofk/releases/download/ko-8/p8-2.zip",
+      "size": 25429708,
+      "unpackedSize": 25429102,
+      "sha256": "1461b0bb7fa43487e53f8d04fbeb9145c8498226254b30403adcee18d3ccb59b"
     },
     {
       "id": "ko-storytext",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-7/p7-2.zip",
-      "size": 7874801,
-      "unpackedSize": 110241810,
-      "sha256": "125b4bbf1310e69ba1b089d94889844196ec87993e74318750a1bfcee9328311"
+      "url": "https://github.com/crim2n/ffofk/releases/download/ko-8/p8-3.zip",
+      "size": 7874852,
+      "unpackedSize": 110241818,
+      "sha256": "3e28af86c3c6e09759ded29fa7b20ae1cbe123c5201ca9fca18f11ab84aa4d81"
     }
   ]
 }
