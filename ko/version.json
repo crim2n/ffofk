@@ -1,6 +1,6 @@
 {
-  "koRevision": 4,
-  "apkRevision": 1,
+  "koRevision": 5,
+  "apkRevision": 2,
   "enRange": {
     "minVersionCode": 9065,
     "maxVersionCode": 9065
@@ -8,5 +8,11 @@
   "notesKo": [
     "v0.1.24",
     "v0.1.25"
-  ]
+  ],
+  "patcher": {
+    "versionCode": 5,
+    "versionName": "1.3.1",
+    "url": "https://github.com/crim2n/ffofk/releases/download/patcher-5/p-5.apk",
+    "sha256": "8b16b46bfdd29aaeda7bed03bdc63c3be13eeeac68a566415f04db8372cb4285"
+  }
 }
