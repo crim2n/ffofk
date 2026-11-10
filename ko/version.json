@@ -10,9 +10,9 @@
     "v0.1.25"
   ],
   "patcher": {
-    "versionCode": 8,
-    "versionName": "1.4.1",
-    "url": "https://github.com/crim2n/ffofk/releases/download/patcher-8/p-8.apk",
-    "sha256": "5e7e37ba669cb400cfa8ea6a5fc12cf27098f9becb413e995a02aa3e4062b562"
+    "versionCode": 9,
+    "versionName": "1.4.2",
+    "url": "https://github.com/crim2n/ffofk/releases/download/patcher-9/p-9.apk",
+    "sha256": "7ad206fab6bbf397c233c3fa24480ef3ca7f525877f9f62e089a8c13e42fb742"
   }
 }
