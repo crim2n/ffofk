@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "revision": 90006,
+  "revision": 90007,
   "version": "2026.11.04.9",
   "minAppVersionCode": 9015,
-  "downloadBytes": 21979984023,
-  "installedBytes": 22381677065,
-  "files": 18004,
+  "downloadBytes": 16094520269,
+  "installedBytes": 16599944756,
+  "files": 13685,
   "packs": [
     {
       "id": "client-assets",
@@ -142,38 +142,17 @@
     },
     {
       "id": "ko-ui-1",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-6/p6-1.zip",
-      "size": 1653119208,
-      "unpackedSize": 1754795290,
-      "sha256": "2b6dce19e056991a48229cb22eb6d7a7a929c7f641a29955251b7af1b1fa5bb4"
+      "url": "https://github.com/crim2n/ffofk/releases/download/ko-7/p7-1.zip",
+      "size": 1438773549,
+      "unpackedSize": 1541011417,
+      "sha256": "5a61948993c2c5caa7fade6966778564f716bdaa5d9d72990b60cb57d8ac6291"
     },
     {
-      "id": "ko-ui-2",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-6/p6-2.zip",
-      "size": 572588970,
-      "unpackedSize": 572564630,
-      "sha256": "dfd6b1afbc732465a6c278acf271cb72983ad1d45e32e0eda3c5f8cb82f3fd88"
-    },
-    {
-      "id": "ko-story-1",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-2/exvius-ko-2-2.zip",
-      "size": 1900210054,
-      "unpackedSize": 1899546394,
-      "sha256": "37563887468db648dc119ae3bd82acde7ae677bb0659a6e2a36761aebca790f6"
-    },
-    {
-      "id": "ko-story-2",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-2/exvius-ko-2-3.zip",
-      "size": 1896759373,
-      "unpackedSize": 1896686591,
-      "sha256": "63f922e7c0fcf70fddd687d27396fad7cf6329ec193ffc57525ccc1559e7fc33"
-    },
-    {
-      "id": "ko-story-3",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-2/exvius-ko-2-4.zip",
-      "size": 1309434499,
-      "unpackedSize": 1309392631,
-      "sha256": "7a4eb4b73e437ae5b345c2234b5e5af58c49d5047fcf8572f01bc5a4ae9144fb"
+      "id": "ko-storytext",
+      "url": "https://github.com/crim2n/ffofk/releases/download/ko-7/p7-2.zip",
+      "size": 7874801,
+      "unpackedSize": 110241810,
+      "sha256": "125b4bbf1310e69ba1b089d94889844196ec87993e74318750a1bfcee9328311"
     }
   ]
 }
