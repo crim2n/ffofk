@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "revision": 90017,
+  "revision": 90018,
   "version": "2026.11.04.9",
   "minAppVersionCode": 9015,
-  "downloadBytes": 16023900826,
-  "installedBytes": 16548683850,
+  "downloadBytes": 16023901751,
+  "installedBytes": 16548687202,
   "files": 13782,
   "packs": [
     {
@@ -142,17 +142,17 @@
     },
     {
       "id": "ko-ui-1",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-17/p17-1.zip",
-      "size": 1342724345,
-      "unpackedSize": 1464321399,
-      "sha256": "3a9854aae5196fdf7d1d62dd5cab3ef2c392fa42b21769961b9b2acaef54c8ca"
+      "url": "https://github.com/crim2n/ffofk/releases/download/ko-18/p18-1.zip",
+      "size": 1342725270,
+      "unpackedSize": 1464324751,
+      "sha256": "fc0db1f2dfcf6975561cb72437595c733145d16fd37e65a33f6dfb4b3fa14cf1"
     },
     {
       "id": "ko-hud",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-17/p17-2.zip",
+      "url": "https://github.com/crim2n/ffofk/releases/download/ko-18/p18-2.zip",
       "size": 25429710,
       "unpackedSize": 25429104,
-      "sha256": "831177bfe956a936b7feeab41c165103085905f33631364460a87c9f03e4ceac"
+      "sha256": "e424116f3b8ab7b4594c6d43bfd0523b4713f18c300963d413d0ea04153b43be"
     },
     {
       "id": "ko-storytext",
