@@ -1,6 +1,6 @@
 {
   "koRevision": 22,
-  "apkRevision": 17,
+  "apkRevision": 18,
   "enRange": {
     "minVersionCode": 9065,
     "maxVersionCode": 9070
@@ -10,9 +10,18 @@
     "v0.1.25"
   ],
   "patcher": {
-    "versionCode": 29,
-    "versionName": "1.5.12",
-    "url": "https://github.com/crim2n/ffofk/releases/download/patcher-29/p-29.apk",
-    "sha256": "77ab4e91c8ec23000559941afe064d14cb6556d55277c603a1d12de2e0dde1c0"
+    "versionCode": 30,
+    "versionName": "1.5.13",
+    "url": "https://github.com/crim2n/ffofk/releases/download/patcher-30/p-30.apk",
+    "sha256": "cac1dfd506b23fd0ce18993063d4647b2d13b80d94ebee5fdf7494dd438cbb90"
+  },
+  "enApp": {
+    "version": "0.1.30",
+    "versionName": "9.0.0-offline.30",
+    "versionCode": 9070,
+    "url": "https://github.com/Elvlin/exvius-offline/releases/download/v0.1.30/exvius-offline-v0.1.30.apk",
+    "size": 106360530,
+    "sha256": "98875e7b8ebcd04794b36392f8afa71c207bebeba2f90d939ee9572f034e95e2",
+    "minAppVersionCode": 9015
   }
 }
