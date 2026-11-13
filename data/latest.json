@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "revision": 90022,
-  "version": "2026.11.04.9",
+  "revision": 110023,
+  "version": "2026.11.13.11",
   "minAppVersionCode": 9015,
-  "downloadBytes": 16365537124,
-  "installedBytes": 17047059457,
-  "files": 13782,
+  "downloadBytes": 19628009481,
+  "installedBytes": 20435193819,
+  "files": 13882,
   "packs": [
     {
       "id": "client-assets",
-      "url": "https://github.com/Elvlin/exvius-offline/releases/download/v0.1.1/exvius-client-assets.zip",
-      "size": 71997300,
-      "unpackedSize": 71997144,
-      "sha256": "eb70867cc2a97251f01873d31b87702ca90e5612eb8a2f18257ed74cd7d36224"
+      "url": "https://github.com/Elvlin/exvius-offline/releases/download/v0.1.31/exvius-client-assets.zip",
+      "size": 94993258,
+      "unpackedSize": 94993102,
+      "sha256": "ff8c5ec973ae046dad2041f27d1e5862358355874d34e45ed20c26065f6070b9"
     },
     {
       "id": "data-001",
@@ -141,32 +141,60 @@
       "sha256": "f2d59c981f3ad1d3d511e872314c74eec5bb1fd12473a9b820f76b87ee3bf854"
     },
     {
+      "id": "content-001",
+      "url": "https://github.com/Elvlin/exvius-offline/releases/download/v0.1.31/exvius-content-001.zip",
+      "size": 1466139939,
+      "unpackedSize": 1465830553,
+      "sha256": "5ce1a3071cdf46d40ceef8b676e30b89349cd684e1d2c00638a91e21a729d19a"
+    },
+    {
+      "id": "content-002",
+      "url": "https://github.com/Elvlin/exvius-offline/releases/download/v0.1.31/exvius-content-002.zip",
+      "size": 1450036319,
+      "unpackedSize": 1449958839,
+      "sha256": "e543e52a8cec8295a76d1a4eeef3bdbfb8d726af5700d070b0d6fc16db0477e3"
+    },
+    {
+      "id": "content-003",
+      "url": "https://github.com/Elvlin/exvius-offline/releases/download/v0.1.31/exvius-content-003.zip",
+      "size": 238038621,
+      "unpackedSize": 363542700,
+      "sha256": "48796d1df87f0d86fb5b0e3042b0e403fa3480763a475cf56cd3f5a73567b3c0"
+    },
+    {
       "id": "ko-ui-1",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-22/p22-1.zip",
-      "size": 1534810052,
-      "unpackedSize": 1813147079,
-      "sha256": "3bce0b5eaccdbe16c2c894b083001fc5c12b4a5f97f5417d03feaff19ca9eb5b"
+      "url": "https://github.com/crim2n/ffofk/releases/download/ko-23/p23-1.zip",
+      "size": 1537344031,
+      "unpackedSize": 1818194641,
+      "sha256": "1d45c2b0e81197abc0c9c501b7123f746de3d68cbbeaf8a3d8b4e23b3753c92a"
     },
     {
       "id": "ko-ui-2",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-22/p22-2.zip",
-      "size": 145617328,
-      "unpackedSize": 145616896,
-      "sha256": "6166c0d340405003597f77ed39db9e882effe36a3e3f09e965d810c49dd8cdb1"
+      "url": "https://github.com/crim2n/ffofk/releases/download/ko-23/p23-2.zip",
+      "size": 134138288,
+      "unpackedSize": 134137856,
+      "sha256": "f123ee85f5aa5c0d2182f2743761a1aeac451871534fffda3e7134cd811d7aab"
     },
     {
       "id": "ko-hud",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-22/p22-3.zip",
+      "url": "https://github.com/crim2n/ffofk/releases/download/ko-23/p23-3.zip",
       "size": 29362973,
       "unpackedSize": 29362135,
-      "sha256": "28dce35f4236b43d5e6a977b2094ba382d3ba722b30fbe7ccfdd46a53f2d6241"
+      "sha256": "bde101fc528d8b91ad6a0d839ed5723e6a71422f3c811fa6a82f77bfa8dc7ca0"
     },
     {
       "id": "ko-storytext",
-      "url": "https://github.com/crim2n/ffofk/releases/download/ko-8/p8-3.zip",
-      "size": 7874852,
-      "unpackedSize": 110241818,
-      "sha256": "3e28af86c3c6e09759ded29fa7b20ae1cbe123c5201ca9fca18f11ab84aa4d81"
+      "url": "https://github.com/crim2n/ffofk/releases/download/ko-23/p23-4.zip",
+      "size": 7427074,
+      "unpackedSize": 107375817,
+      "sha256": "2b35a9a04c4f751b6474da5614a2767073ec14f0cbc0e101ff90261373f2f5ce"
+    },
+    {
+      "id": "ko-rules",
+      "url": "https://github.com/crim2n/ffofk/releases/download/ko-23/p23-5.zip",
+      "size": 94654359,
+      "unpackedSize": 95103791,
+      "sha256": "7503418f1a8c2b2eeab838fbb9cf92698d367b5b7a23e31a91aa75835b385ea0"
     }
   ]
 }
